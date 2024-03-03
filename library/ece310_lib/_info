@@ -1,0 +1,103 @@
+m255
+K4
+z2
+!s11f vlog 2023.4 2023.10, Oct  9 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/mnt/ncsudrive/b/bdheard/Courses/Spring2024/ECE310/my_unity_id/library
+vdff
+Z1 2dff.v|mux21.v
+Z2 !s110 1707310663
+!i10b 1
+!s100 2cNXbP0[OK<l@Wd^]3>^`0
+I8ifN7]4m@i2XnflSiEQA83
+R0
+w1707310576
+8dff.v
+Fdff.v
+!i122 0
+L0 1 16
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OE;L;2023.4;77
+r1
+!s85 0
+31
+Z5 !s108 1707310661.000000
+Z6 !s107 mux21.v|dff.v|
+Z7 !s90 -work|ece310_lib|dff.v|mux21.v|
+!i113 0
+Z8 o-work ece310_lib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z9 tCvgOpt 0
+vfa
+2fa.v
+!s110 1707311123
+!i10b 1
+!s100 `@>XPW@fC@D3LV]3CN<P>1
+IlNS1oGkZ8b8kbOHRj>Q^k2
+R0
+w1707311091
+8fa.v
+Ffa.v
+!i122 1
+Z10 L0 1 9
+R3
+R4
+r1
+!s85 0
+31
+!s108 1707311123.000000
+!s107 fa.v|
+!s90 -work|ece310_lib|fa.v|
+!i113 0
+R8
+R9
+vmux21
+R1
+R2
+!i10b 1
+!s100 [bL<C?FS0JT>5CNCgiCBW3
+IY@V_]Dn4DB;MAhl7G@]a31
+R0
+w1707310581
+8mux21.v
+Fmux21.v
+!i122 0
+R10
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R9
+vtb_player
+2tb_player.v
+!s110 1707907628
+!i10b 1
+!s100 ^HYzo8Vb:=OENRZYa;PN72
+IRR2J9kJ4R_J=dQ>mzmBcL2
+R0
+w1707907555
+8tb_player.v
+Ftb_player.v
+!i122 4
+L0 6 83
+R3
+R4
+r1
+!s85 0
+31
+!s108 1707907628.000000
+!s107 tb_player.v|
+!s90 -work|ece310_lib|tb_player.v|
+!i113 0
+R8
+R9
